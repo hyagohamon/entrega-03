@@ -1,0 +1,5 @@
+Foi implementado no projeto o pattern Strategy.
+Sem esse pattern vários if ou switchs teriam que ser adicionados no método de calcular da CalcuraladoraDeImpostos.
+Com o pattern aplicado isso é evitado, sendo assim cada imposto é criado como uma classe e implementa a interface Imposto.
+
+ALUNO: HYAGO HAMON SOUSA DE AQUINO
